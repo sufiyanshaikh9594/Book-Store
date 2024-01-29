@@ -334,7 +334,6 @@ function HomePage() {
     });
 }
 
-
 // About Page 
 function AboutPage() {
     gsap.from("#heading h1, #heading p", {
